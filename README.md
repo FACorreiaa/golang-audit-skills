@@ -50,4 +50,3 @@ Then: `Use go-backend-audit and security-audit independently on the same commit,
 - Review security of third-party skills before installing.
 - Never run destructive or production-affecting tests/benchmarks without an appropriate approved environment.
 - An absent security skill must be reported as absent, not silently replaced with a superficial security checklist.
-# golang-audit-skills
